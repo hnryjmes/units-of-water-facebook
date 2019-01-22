@@ -1,3 +1,3 @@
-export default class App {
-
+export default function calculateUnitsOfWater(arr: number[]) {
+    return 1;
 }

@@ -1,3 +1,3 @@
-export default function calculateUnitsOfWater(arr: number[]) {
+export default function calculateUnitsOfWater(input: number[]) {
     return 1;
 }

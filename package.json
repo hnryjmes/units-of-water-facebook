@@ -4,7 +4,7 @@
   "description": "Compute how many units of water remain trapped on the map in O(N) time and O(1) space.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
